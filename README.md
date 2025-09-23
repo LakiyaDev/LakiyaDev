@@ -1,6 +1,6 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-<h1 align="center">Hi 👋, I'm Sadeepa Lakshan</h1>
-<h3 align="center">Passionate IT Student | Aspiring Full-Stack Developer | Tech Enthusiast | Exploring the Future of Software Development</h3>
+<h1 align="center">👋 Hi, I'm Sadeepa Lakshan</h1>
+<h3 align="center">Passionate IT Student | Passionate Full-Stack Developer | AI & ML Enthusiast | DevOps Explorer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=LakiyaDev&label=Profile%20views&color=0e75b6&style=flat" alt="LakiyaDev" /> </p>
 <hr>
 
