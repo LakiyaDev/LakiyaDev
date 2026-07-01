@@ -25,26 +25,13 @@
 </table> 
 <hr>
 
-<h3 align="center">My Statistics:</h3>
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  <img align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=LakiyaDev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
+<h3 align="center">Github Analytics:</h3>
 
----
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/sadeepa-lakshan-bandaranayaka-37b75b288/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Linkedin@SadeepaLakshan" height="50" width="50" /></a>
-<a href="https://x.com/SadeepaLakzan" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Twitter.svg" alt="X@SadeepaLakshan" height="50" width="50" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="StackOverflow@SadeepaLakshan" height="50" width="50" /></a>
-<a href="https://www.facebook.com/profile.php?id=61550514771955" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="FB@SadeepaLakshan" height="50" width="50" /></a>
-<a href="https://www.instagram.com/sadeepa_lakzan/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="Instagram@SadeepaLakshan " height="50" width="50" /></a>
+<a href="https://github.com/LakiyaDev">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LakiyaDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LakiyaDev&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
 ---
@@ -73,3 +60,14 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TypeScript.svg" alt="typescript" width="50" height="50"/> </a> 
 </p>
 
+
+---
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/sadeepa-lakshan-bandaranayaka-37b75b288/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Linkedin@SadeepaLakshan" height="50" width="50" /></a>
+<a href="https://x.com/SadeepaLakzan" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Twitter.svg" alt="X@SadeepaLakshan" height="50" width="50" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="StackOverflow@SadeepaLakshan" height="50" width="50" /></a>
+<a href="https://www.facebook.com/profile.php?id=61550514771955" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="FB@SadeepaLakshan" height="50" width="50" /></a>
+<a href="https://www.instagram.com/sadeepa_lakzan/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="Instagram@SadeepaLakshan " height="50" width="50" /></a>
+</p>
