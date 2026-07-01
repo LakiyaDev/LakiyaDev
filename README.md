@@ -29,8 +29,9 @@
 
 <p align="center">
 <a href="https://github.com/LakiyaDev">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LakiyaDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LakiyaDev&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" img width="49.5%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LakiyaDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" img width="49.5%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LakiyaDev&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </a>
 </p>
 
