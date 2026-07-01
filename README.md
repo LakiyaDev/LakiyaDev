@@ -96,8 +96,8 @@ interests:
 <h3 align="center"> 📊 GitHub Analytics </h3>
 
 <p align="center">
-  <img height="180em" img width="49.5%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LakiyaDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" img width="49.5%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LakiyaDev&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" width="49.5%" src="https://github-readme-stats.vercel.app/api?username=LakiyaDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=0ea5e9&text_color=e2e8f0"/>
+  <img height="180em" width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakiyaDev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=0ea5e9&text_color=e2e8f0"/>
 </p>
 
 ---
@@ -109,7 +109,7 @@ interests:
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/SadeepaLakzan" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=61550514771955" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
