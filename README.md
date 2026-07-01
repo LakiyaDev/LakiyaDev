@@ -3,10 +3,10 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Sadeepa Lakshan</h1>
-<h3 align="center">LakiyaDev · DevOps & Cloud Explorer · Full-Stack Developer</h3>
+<h3 align="center">Passionate IT Student | DevOps & Cloud Explorer | AI & ML Enthusiast | Aspiring Full-Stack Developer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;DevOps+%26+Cloud+Explorer;AI+%26+ML+Enthusiast;Building+scalable+cloud-native+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;DevOps+%26+Cloud+Explorer;AI+%26+ML+Enthusiast;Building+Scalable+Cloud-Native+Solutions" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ---
 
-## 👨‍💻 About Me
+<h3 align = "center">👨‍💻 About Me</h2>
 
 <table>
   <tr>
@@ -43,7 +43,7 @@
 
 ---
 
-## ☁️ DevOps & Cloud Explorer
+<h3 align="center">☁️ DevOps & Cloud Explorer</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cloud-Explorer-0ea5e9?style=for-the-badge&logo=icloud&logoColor=white"/>
@@ -69,7 +69,7 @@ interests:
 
 ---
 
-## 🛠️ Tech Stack
+<h3 align="center">🛠️ Tech Stack</h3>
 
 ### ☁️ Cloud & DevOps
 <p align="center">
@@ -93,32 +93,16 @@ interests:
 
 ---
 
-## 📊 GitHub Analytics
+<h3 align="center"> 📊 GitHub Analytics </h3>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LakiyaDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=0ea5e9&text_color=e2e8f0"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakiyaDev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LakiyaDev&theme=tokyonight&hide_border=true&background=0F172A&ring=0EA5E9&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LakiyaDev&theme=tokyo-night&hide_border=true&bg_color=0f172a&color=38bdf8&line=0ea5e9&point=38bdf8" alt="Activity Graph"/>
+  <img height="180em" img width="49.5%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LakiyaDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" img width="49.5%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LakiyaDev&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LakiyaDev&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</p>
-
----
-
-## 🤝 Connect With Me
+<h3 align="center"> 🤝 Connect With Me </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sadeepa-lakshan-bandaranayaka-37b75b288/" target="_blank">
@@ -138,8 +122,3 @@ interests:
   </a>
 </p>
 
----
-
-<p align="center">
-  <b>☁️ Building in the cloud. Automating with DevOps. Learning every day.</b>
-</p>
