@@ -96,8 +96,8 @@ interests:
 <h3 align="center"> 📊 GitHub Analytics </h3>
 
 <p align="center">
-  <img height="180em" width="49.5%" src="https://github-readme-stats.vercel.app/api?username=LakiyaDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=0ea5e9&text_color=e2e8f0"/>
-  <img height="180em" width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakiyaDev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=0ea5e9&text_color=e2e8f0"/>
+    <img height="180em" img width="49.5%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LakiyaDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" img width="49.5%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LakiyaDev&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
 ---
