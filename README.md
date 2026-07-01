@@ -1,8 +1,12 @@
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5a,100:0ea5e9&height=180&section=header&text=Sadeepa%20Lakshan&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=LakiyaDev%20%7C%20DevOps%20%26%20Cloud%20Explorer&descSize=16&descAlignY=55&descAlign=50"/>
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100" alt="Wave"/>
+</p>
+
+<h1 align="center">👋 Hi, I'm Sadeepa Lakshan</h1>
+<h3 align="center">LakiyaDev · DevOps & Cloud Explorer · Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;DevOps+%26+Cloud+Explorer;AI+%26+ML+Enthusiast;Building+scalable+cloud-native+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;DevOps+%26+Cloud+Explorer;AI+%26+ML+Enthusiast;Building+scalable+cloud-native+solutions" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -114,16 +118,6 @@ interests:
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LakiyaDev/LakiyaDev/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-</p>
-
-> **Note:** Enable the snake animation by adding [this GitHub Action](https://github.com/Platane/snk) to your profile repo.
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
@@ -145,10 +139,6 @@ interests:
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5a,100:0ea5e9&height=120&section=footer"/>
-</p>
 
 <p align="center">
   <b>☁️ Building in the cloud. Automating with DevOps. Learning every day.</b>
